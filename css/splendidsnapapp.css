@@ -52,6 +52,12 @@ img[alt*="Screenshot"] {
   color: white !important;
 }
 
+.navbar-toggler-icon {
+  background-color: blue;
+
+}
+
+
 #collapsibleNavbar
 {
   background-color: blue;
